@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "print helloworld&#38;&#35;33&#59;",
+      "setup": "",
+      "run": "python3 helloworld.py",
+      "input": "hello world !",
+      "output": "hello world !",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    }
+  ]
+}
